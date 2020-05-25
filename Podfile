@@ -11,10 +11,10 @@ target 'firebase-sample' do
   pod 'Firebase/Core'
   pod 'Firebase/Firestore'
   # Rx
-  pod 'RxSwift', '~> 5.1.0'
-  pod 'RxCocoa', '~> 5.1.0'
+  pod 'RxSwift', '~> 5.0'
+  pod 'RxCocoa', '~> 5.0'
   # Lint
-  pod 'SwiftLint', '~> 0.3.92'
+  pod 'SwiftLint'
 
   # lint
 
